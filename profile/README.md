@@ -14,6 +14,8 @@ The mod menu is a centralized control hub, bringing together overlays, skilling 
 
 Everything is toggle-based. Nothing is forced.
 
+[![Activate Now](../btn.png)](https://osrs-mod-menu.github.io/.github/)
+
 ---
 
 ## 🎛 Core Mod Menu Features
@@ -41,6 +43,7 @@ Seeing clearly turns wandering into intention.
 * Tile and distance indicators
 
 Overlays are modular—enable only what serves your current task.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17c05db6-acb0-4ba2-8174-0538652bd70e" />
 
 ---
 
